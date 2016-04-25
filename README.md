@@ -63,6 +63,9 @@ Collection of links to my preferred Sublime Text 3 plug-ins .. the _must have_
 - [Live Reload](https://packagecontrol.io/packages/LiveReload)
 > A web browser page reloading plugin
 
+- [React & React Router Snippets](https://packagecontrol.io/packages/React%20and%20React%20Router%20Snippets)
+> React and React Router snippets by Joe Maddalone 
+
 
 ## Linters
 
@@ -71,10 +74,10 @@ Collection of links to my preferred Sublime Text 3 plug-ins .. the _must have_
   - [SL-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
   - [Sl-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint)
   - [SL-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
+  - [SL-stylelint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)
   - [SL-jscs](https://packagecontrol.io/packages/SublimeLinter-jscs)
-
-- [JSCS Formatter](https://packagecontrol.io/packages/JSCS-Formatter) 
-> Plugin to autoformat your javascript code according to the JSCS configuration files
+  - [SL-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
+  - [ESlint Formatter](https://packagecontrol.io/packages/ESLint-Formatter)
 
 
 ## Themes & Color Schemes
