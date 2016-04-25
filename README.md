@@ -5,6 +5,9 @@ Collection of links to my preferred Sublime Text 3 plug-ins .. the _must have_
 
 - [Package Control](https://packagecontrol.io/packages/Package%20Control)
 
+- [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings)
+> The cross-platform solution to keep Sublime Text configuration synchronized
+
 - [Emmet](https://packagecontrol.io/packages/Emmet) & [Emmet CSS Snippets](https://packagecontrol.io/packages/Emmet%20Css%20Snippets) & [Emmet Style Reflector](https://packagecontrol.io/packages/Emmet%20Style%20Reflector)
 > Emmet (ex-Zen Coding) for Sublime Text / CSS Emmet extension
 
@@ -44,9 +47,6 @@ Collection of links to my preferred Sublime Text 3 plug-ins .. the _must have_
 - [LESS](https://packagecontrol.io/packages/LESS)
 > LESS syntax highlighting for Sublime Text
 
-- [jQuery](https://packagecontrol.io/packages/jQuery) & [jQuery Docs](https://packagecontrol.io/packages/jQueryDocs) 
-> Syntax highlighting and almost all of the jquery methods as snippets && Documentation from api.jquery.com
-
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview) & [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended)
 > Preview and build your markdown files quickly in your web browser
   Extends the default markdown styles with additional syntax highlighting
@@ -62,6 +62,15 @@ Collection of links to my preferred Sublime Text 3 plug-ins .. the _must have_
 
 - [Live Reload](https://packagecontrol.io/packages/LiveReload)
 > A web browser page reloading plugin
+
+
+## Snippets
+
+- [jQuery](https://packagecontrol.io/packages/jQuery) & [jQuery Docs](https://packagecontrol.io/packages/jQueryDocs) 
+> Syntax highlighting and almost all of the jquery methods as snippets && Documentation from api.jquery.com
+
+- [Java​Script & Node​JS Snippets](https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets)
+> JavaScript & NodeJS Snippets for Sublime Text 2/3
 
 - [React & React Router Snippets](https://packagecontrol.io/packages/React%20and%20React%20Router%20Snippets)
 > React and React Router snippets by Joe Maddalone 
@@ -84,4 +93,8 @@ Collection of links to my preferred Sublime Text 3 plug-ins .. the _must have_
 
 - [Seti UI](https://packagecontrol.io/packages/Seti_UI) & [Seti UX](https://packagecontrol.io/packages/Seti_UX)
 > SublimeText 3 Theme & Seti Improved Scheme/Syntax
+
+- [Oceanic Next Color Scheme](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
+> Sublime Text 2/3 color scheme ready for ES6, optimized for babel-sublime
+
 
