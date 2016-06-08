@@ -80,13 +80,15 @@ Collection of links to my preferred Sublime Text 3 plug-ins .. the _must have_
 
 - [Sublime Linter](https://packagecontrol.io/packages/SublimeLinter)
 > Interactive code linting framework for Sublime Text 3
-  - [SL-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
   - [Sl-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint)
   - [SL-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
   - [SL-stylelint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)
-  - [SL-jscs](https://packagecontrol.io/packages/SublimeLinter-jscs)
   - [SL-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
   - [ESlint Formatter](https://packagecontrol.io/packages/ESLint-Formatter)
+
+> Optional javascript linters (ESLint seems better)
+  - [SL-jscs](https://packagecontrol.io/packages/SublimeLinter-jscs)
+  - [SL-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
 
 
 ## Themes & Color Schemes
